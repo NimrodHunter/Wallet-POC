@@ -4,7 +4,7 @@ Wallet Service manage private keys in a secure way, and provide custody of block
 
 ## Wallet Service Diagram
 
-![Wallet Service](https://github.com/tokenfoundry/wallet-poc/blob/master/diagram/wallet-management.png)
+![Wallet Service](https://github.com/NimrodHunter/Wallet-POC/blob/master/diagram/wallet-management.png)
 
 ## Create Account
 
@@ -55,7 +55,7 @@ follow the instructions here:
 
 ### Run Demo
 
-`git clone git@github.com:tokenfoundry/wallet-poc.git`
+`git@github.com:NimrodHunter/Wallet-POC.git`
 
 `cd wallet-poc`
 
